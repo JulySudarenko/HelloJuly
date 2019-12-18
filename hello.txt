@@ -1,7 +1,2 @@
 Hello, git!
-Lets be friends. >> hello.txt
-1
-
-git commit
-echo Lets be friends.
-Hello, world!
+Let's be friends.
