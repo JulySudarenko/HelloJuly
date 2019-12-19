@@ -1,5 +1,3 @@
 Hello, git!
-Let's be friends.
-Let-s be friends.
-Let-s be friends.
 Let`s be friends.
+New line
