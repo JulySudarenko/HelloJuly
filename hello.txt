@@ -5,4 +5,4 @@ We need to add new line again
 Autor has no fantasy
 Hello, git rebase!
 
-REBASE
+REBASEHello, Git! Again.
