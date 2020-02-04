@@ -6,3 +6,4 @@ Autor has no fantasy
 Hello, git rebase!
 
 REBASEHello, Git! Again.
+Hello, git rebase!
